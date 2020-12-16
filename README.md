@@ -1,10 +1,10 @@
 # QATestProject
-1.    Открыть главную страницу сайта
-2.    Выполнить проверку, что цена продуктов в секции "Популярные товары" указана в соответствии с установленной валютой в шапке сайта (USD, EUR, UAH).
-3.    Установить показ цены в USD используя выпадающий список в шапке сайта.
-4.    Выполнить поиск в каталоге по слову “dress”
-5.    Выполнить проверку, что страница "Результаты поиска" содержит надпись "Товаров: x", где x - количество действительно найденных товаров.
-6.    Проверить, что цена всех показанных результатов отображается в долларах.
-7.    Установить сортировку "от высокой к низкой."
-8.    Проверить, что товары отсортированы по цене от высокой к низкой.
-9.   Для любого товара со скидкой необходимо проверить, что цена до и после скидки совпадает с указанным размером скидки.
+1.    Open the main page of the site
+2.Check that the price of the products in the "Popular Products" section is indicated in accordance with the set currency in the site header (USD, EUR, UAH).
+3.Set the display of the price in USD using the drop-down list in the site header.
+4.Search the catalog for the word “dress”
+5.Check that the "Search Results" page contains the words "Products: x", where x is the number of products actually found.
+6.Verify that the price of all results shown is displayed in dollars.
+7.Sort "high to low."
+8.Check that the products are sorted by price from high to low.
+9.For any discounted item, you must check that the price before and after the discount matches the specified discount amount.
